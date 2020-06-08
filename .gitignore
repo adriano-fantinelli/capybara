@@ -1,0 +1,11 @@
+*.xml
+*.log
+*.txt
+/.idea/
+/.idea
+\.idea
+debug.log
+Gemfile.lock
+/code_analyzer/
+/screenshots/
+/allure-results/

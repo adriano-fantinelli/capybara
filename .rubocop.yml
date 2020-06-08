@@ -1,0 +1,45 @@
+AllCops:
+  Exclude:
+    - 'aut-api-rest/**/*'
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 250
+
+Style/GlobalVars:
+  Enabled: false
+
+Metrics/ModuleLength:
+  Max: 150
+
+Metrics/PerceivedComplexity:
+  Max: 10
+
+Metrics/AbcSize: 
+  Max: 45
+
+Metrics/MethodLength: 
+  Max: 35
+
+Style/MethodCallWithoutArgsParentheses:
+  Enabled: false
+
+Metrics/CyclomaticComplexity:
+  Max: 20
+
+Metrics/ClassLength:
+  Max: 150
+
+Style/ClassVars:
+  Enabled: false
+
+Layout/EndOfLine:
+  Enabled: false
+
+Style/PercentLiteralDelimiters:
+  Enabled: false
