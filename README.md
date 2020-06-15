@@ -16,14 +16,8 @@
   bundle install
   ```
   4. Existir o arquivo [chromedriver](https://zwbetz.com/download-chromedriver-binary-and-add-to-your-path-for-automated-functional-testing/) em alguma pasta path
-# É necessário clonar o repositório para executar os testes, depois digite no terminal da IDE
-  npm install chai
 
-# Após reiniciar a IDE utilize esse comando, então os testes devem começar
-cucumber -t @smoke  
- 
- Tutorial para realizar automação de testes com protractor:
-  
-
-  
-
+# É necessário clonar o repositório para executar os testes, depois reiniciar a IDE utilize esse comando no terminal, então os testes devem começar
+  ```
+  cucumber -t @smoke  
+  ```
