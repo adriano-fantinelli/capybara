@@ -7,20 +7,15 @@
 
 # Configurar o Ambiente
   1. Escolher uma IDE de Ruby, um sugestão é o [Visual Studio Code](https://code.visualstudio.com/).
-  2. Instalar o bundler
+  2. Instalar o bundler pelo terminal
   ```
   gem install bundler
   ```
-
-
-   
-# 
-
-Instalar as gems do projeto
-bundle install
-
-Definir o chromedriver no path
-Para MacOS: brew cask install chromedriver Para Windows: Consultar aqui
+  3. Instalar as dependencias do projeto
+  ```
+  bundle install
+  ```
+  4. Existir o arquivo [chromedriver](https://zwbetz.com/download-chromedriver-binary-and-add-to-your-path-for-automated-functional-testing/) em alguma pasta path
 # É necessário clonar o repositório para executar os testes, depois digite no terminal da IDE
   npm install chai
 
