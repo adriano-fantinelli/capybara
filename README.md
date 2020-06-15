@@ -6,7 +6,7 @@
   Documentação Capybara: https://www.rubydoc.info/github/jnicklas/capybara
 
 # Configurar o Ambiente
-  1. Escolher uma IDE de Ruby, um sugestão é o [Visual Studio Code](https://code.visualstudio.com/).
+  1. Escolher uma IDE de Ruby, uma sugestão é o [Visual Studio Code](https://code.visualstudio.com/).
   2. Instalar o bundler pelo terminal
   ```
   gem install bundler
