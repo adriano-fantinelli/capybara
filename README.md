@@ -18,7 +18,7 @@
   4. Existir o arquivo [chromedriver](https://zwbetz.com/download-chromedriver-binary-and-add-to-your-path-for-automated-functional-testing/) em alguma pasta path
 
 # Executar os testes 
-É necessário clonar o repositório para executar os testes, depois reiniciar a IDE utilize esse comando no terminal, os testes devem começar
+É necessário clonar o repositório para executar os testes, depois de reiniciar a IDE utilize esse comando no terminal, os testes devem começar
   ```
   cucumber -t @smoke  
   ```
