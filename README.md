@@ -6,7 +6,7 @@
   Documentação Protractor: https://www.rubydoc.info/github/jnicklas/capybara
 
 # Configurar o Ambiente
-  1. Escolher uma IDE de Ruby
+  1. Escolher uma IDE de Ruby, um sugestão é o [Visual Studio Code](https://code.visualstudio.com/).
   2. Instalar o bundler
   ```
   gem install bundler
