@@ -11,7 +11,7 @@
   ```
   gem install bundler
   ```
-  3. Instalar as dependencias do projeto
+  3. Instalar as dependências do projeto
   ```
   bundle install
   ```
