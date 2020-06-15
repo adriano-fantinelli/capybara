@@ -3,7 +3,7 @@
 
   Documentação Selenium: https://www.selenium.dev/documentation/en/getting_started/
 
-  Documentação Protractor: https://www.rubydoc.info/github/jnicklas/capybara
+  Documentação Capybara: https://www.rubydoc.info/github/jnicklas/capybara
 
 # Configurar o Ambiente
   1. Escolher uma IDE de Ruby, um sugestão é o [Visual Studio Code](https://code.visualstudio.com/).
