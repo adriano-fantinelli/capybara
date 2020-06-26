@@ -9,7 +9,7 @@
   1. Escolher uma IDE de Ruby, uma sugestão é o [Visual Studio Code](https://code.visualstudio.com/).
   3. Clonar o projeto usando esse comando no terminal
    ```
-  git clone
+  git clone https://github.com/adriano-fantinelli/capybara-selenium-automation.git
   ```
   2. Instalar o bundler pelo terminal
   ```
