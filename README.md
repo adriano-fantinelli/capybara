@@ -5,24 +5,26 @@
 
   Documentação Capybara: https://www.rubydoc.info/github/jnicklas/capybara
 
-# Configurar o Ambiente
+# Configurar o Ambiente:
   1. Escolher uma IDE de Ruby, uma sugestão é o [Visual Studio Code](https://code.visualstudio.com/).
-  3. Clonar o projeto usando esse comando no terminal
+  2. Clonar o projeto usando esse comando no terminal
    ```
   git clone https://github.com/adriano-fantinelli/capybara-selenium-automation.git
   ```
-  2. Instalar o bundler pelo terminal
+  3. Instalar o bundler pelo terminal
   ```
   gem install bundler
   ```
-  3. Instalar as dependencias do projeto
+  4. Instalar as dependencias do projeto
   ```
   bundle install
   ```
-  4. Existir o arquivo [chromedriver](https://zwbetz.com/download-chromedriver-binary-and-add-to-your-path-for-automated-functional-testing/) em alguma pasta path
+  5. Existir o arquivo [chromedriver](https://zwbetz.com/download-chromedriver-binary-and-add-to-your-path-for-automated-functional-testing/) em alguma pasta path
 
-# Executar os testes 
-É necessário clonar o repositório para executar os testes, depois de reiniciar a IDE utilize esse comando no terminal, os testes devem começar
+# Executar os testes:
+Utilize esse comando no terminal, os testes devem começar
   ```
   cucumber -t @smoke  
   ```
+## Tutorial no medium utilizando esse repositório:
+https://medium.com/@adriano.fantinelli/automatizando-testes-de-aplica%C3%A7%C3%B5es-web-com-capybara-e-selenium-webdriver-8e630c7f6f03
