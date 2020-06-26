@@ -7,6 +7,10 @@
 
 # Configurar o Ambiente
   1. Escolher uma IDE de Ruby, uma sugestão é o [Visual Studio Code](https://code.visualstudio.com/).
+  3. Clonar o projeto usando esse comando no terminal
+   ```
+  git clone
+  ```
   2. Instalar o bundler pelo terminal
   ```
   gem install bundler
