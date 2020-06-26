@@ -2,7 +2,7 @@
 
 @smoke
 Funcionalidade: Login
-    
+
   Cenario: Login com sucesso
     Dado que estou na página de login
     Quando eu faço login com "novoemailteste@gmail.com" e "teste123"
