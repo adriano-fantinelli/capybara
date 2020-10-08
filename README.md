@@ -1,4 +1,4 @@
-# capybara-selenium-automation
+# capybara-ruby-automation
   Esse é um repositório com um exemplo de como realizar uma automação de testes para aplicações Web utilizando o selenium WebDriver e o framework Capybara na linguagem Ruby.
 
   Documentação Selenium: https://www.selenium.dev/documentation/en/getting_started/
